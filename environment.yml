@@ -21,6 +21,7 @@ dependencies:
   - statsmodels=0.12.2
   - numba=0.53.1
   - nitime=0.9
+  - libstdcxx-ng=12.1.0
   - pip:
     - pyleoclim==0.7.3
     - jupytemplate==0.3.0
